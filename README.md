@@ -10,6 +10,9 @@
 > 表白源码下载地址：[https://github.com/ImViper/lovehtml](https://github.com/ImViper/lovehtml)
 
 > 部署教程：
+## httpd部署
+将loveheart或loveppt里面的index.html以及同层级的文件，放到默认的httpd的/var/www/html目录下，即可部署成功
+
 
 ## 在线演示
 - 这里我们先演示了两个模板，其他的模板就自己去研究吧！在后面有模板的页面预览，大家可以挑选喜欢的来使用哦！
